@@ -171,7 +171,7 @@ header .logo-smart a{
     background-color:var(--cor-amarelo);
     color:var(--cor-preta);
     height:200px;
-    padding: 3rem 15rem;
+    padding: 0rem 0rem;
     margin-top:2rem;
     text-transform:uppercase;
 
@@ -324,11 +324,11 @@ footer .btn-social:hover{
 }
 
 .local{
-    padding-left:70rem;
+    padding-left:45rem;
 }
 .mapa{
-    padding-top: 10rem;
-    padding-left: 50rem;
+    padding-top: 2rem;
+    padding-left: 20rem;
 }
 
 .curiosidade{
