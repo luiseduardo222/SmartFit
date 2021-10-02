@@ -264,9 +264,10 @@ footer .btn-social:hover{
 }
 
 .grupo{
-    display:flex;
+    display:inline-block;
     justify-content: space-between;
     align-items:center;
+    
     
 
 }
@@ -321,16 +322,16 @@ footer .btn-social:hover{
     background-color: var(--cor-branca);
     color:var(--cor-preta);
     height:600px;
-    margin-bottom: 2rem;
+    margin-bottom: 5rem;
     text-transform:uppercase;
 }
 
 .local{
-    padding-left:rem;
+    padding-left:2rem;
 }
 .mapa{
-    padding-top: rem;
-    padding-left: rem;
+    padding-top: 2rem;
+    padding-left: 2rem;
 }
 
 .curiosidade{
