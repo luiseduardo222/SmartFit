@@ -171,7 +171,7 @@ header .logo-smart a{
     background-color:var(--cor-amarelo);
     color:var(--cor-preta);
     height:200px;
-    padding: 3rem 0rem;
+    padding: 3rem 15rem;
     margin-top:2rem;
     text-transform:uppercase;
 
@@ -182,7 +182,7 @@ header .logo-smart a{
 }
 
 .covid{
-    display:inline-block;
+    display:flex;
     justify-content:space-between;
     align-items:center;
 }
@@ -267,7 +267,7 @@ footer .btn-social:hover{
     display:inline-block;
     justify-content: space-between;
     align-items:center;
-    
+
     
 
 }
