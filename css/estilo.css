@@ -178,13 +178,13 @@ header .logo-smart a{
 }
 
 .conteudo span{
-    display: inline-block;
+    display: flex;
 }
 
 .covid{
     display:flex;
     justify-content:space-between;
-    align-items:center;
+    align-items:left;
 }
 
 .conteudo span{
@@ -266,7 +266,7 @@ footer .btn-social:hover{
     display:flex;
     justify-content: space-between;
     align-items:center;
-    max-height: 600px;
+    max-height:1124px;
 
 }
 .sessao{
