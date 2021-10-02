@@ -256,6 +256,7 @@ footer .btn-social:hover{
     align-items:center;
     margin-top: 2rem;
     text-transform: uppercase;
+    max-width: 500px;
 }
 
 .nome{
