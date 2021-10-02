@@ -171,7 +171,7 @@ header .logo-smart a{
     background-color:var(--cor-amarelo);
     color:var(--cor-preta);
     height:200px;
-    padding: 0rem 0rem;
+    padding: 3rem 15rem;
     margin-top:2rem;
     text-transform:uppercase;
 
@@ -190,8 +190,8 @@ header .logo-smart a{
 .conteudo span{
     font-size:xx-large;
     width:100%;
-    margin:5rem 0rem 10rem ;
-    text-align:left;
+    margin:2rem 0rem 2rem ;
+    text-align:center;
     
 }
 
@@ -256,7 +256,6 @@ footer .btn-social:hover{
     align-items:center;
     margin-top: 2rem;
     text-transform: uppercase;
-    max-width: 500px;
 }
 
 .nome{
